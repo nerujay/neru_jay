@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making web app projects.
 - 📫 Please contact me via LinkedIn.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like learning languages, currently working on my German. 
+- ⚡ Fun fact: I love learning languages, currently working on my German. 
 
 <!---
 nerujay/nerujay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
